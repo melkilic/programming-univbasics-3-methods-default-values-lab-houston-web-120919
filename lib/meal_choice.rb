@@ -6,3 +6,5 @@ end
 
 meal_choice("broccoli","macaroni")
 meal_choice("broccoli","macaroni","tofu")
+return "What a nutritious meal!"
+return "A plate of #{protein} with #{veg1} and #{veg2}."
